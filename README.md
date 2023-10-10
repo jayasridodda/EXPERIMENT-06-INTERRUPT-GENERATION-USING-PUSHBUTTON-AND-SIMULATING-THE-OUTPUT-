@@ -89,8 +89,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
   
 
 ## STM 32 CUBE PROGRAM:
-NAME: JAYASRI DODDA
-REGISTER NUMBER: 212222240028
+### NAME: JAYASRI DODDA
+### REGISTER NUMBER: 212222240028
 ```
 void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 {
